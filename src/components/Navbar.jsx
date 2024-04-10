@@ -9,7 +9,7 @@ const Navbar = () => {
                 <img src={ appleImg } alt="appleImg" width={18}></img>
                 <div className="flex flex-1 justify-center max-sm:hidden">
                     {navLists.map((nav)=>(
-                        <div className="px-5 text-sm cursor-pointer text-gray hover:text-white transition-all"> {nav}</div>
+                        <div className="px-5 text-sm cursor-pointer text-gray hover:text-white transition-all" key={nav}> {nav}</div>
                     ))}
                 </div>
                 <div className="flex items-baseline gap-7 max-sm:justify-end max-sm:flex-1 ">
