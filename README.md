@@ -1,3 +1,7 @@
+# Recreate Apple iphone 15 pro 3D animated website
+This project is not for profitable purpose, all copyrights belongs to Apple.
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
