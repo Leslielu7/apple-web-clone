@@ -1,7 +1,7 @@
 # Recreate Apple iphone 15 pro 3D animated website
 This project is not for profitable purpose, all copyrights belongs to Apple.
 
-[https://lu7-phonepro.site]([url](https://lu7-phonepro.site))
+[website]([url](https://lu7-phonepro.site))
 
 
 
